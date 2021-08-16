@@ -15,6 +15,7 @@ Table of Contents
 |Task-09 	|Personal website in github pages|
 |Task-13 	|Project Euler (Almost done)|
 |Task-14 	|Bandit|
+|--------|---------|
 |Task-04 	|Advanced XOR (pending)|
 |Task-10 	|CS50 (pending)|
 |Task-11 	|Pong game (Pending)|
