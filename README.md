@@ -17,7 +17,8 @@ Table of Contents
 |Task-14 	|Bandit|
 
 Pending Tasks
-|task|    |Description|
+|Task|    |Description|
+|--------|-------|
 |Task-04 	|Advanced XOR (pending)|
 |Task-10 	|CS50 (pending)|
 |Task-11 	|Pong game (Pending)|
