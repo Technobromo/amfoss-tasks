@@ -1,7 +1,7 @@
-# amfoss-tasks
+# amfoss-tasks by Gursagar Singh
 
 
-Table of Contents
+<b>Table of Contents</b>
 |Task 	| Description|
 |--------|-----------|
 |Task-00 	|Installing Ubuntu|
@@ -16,7 +16,7 @@ Table of Contents
 |Task-13 	|Project Euler (Almost done)|
 |Task-14 	|Bandit|
 
-Pending Tasks
+<b>Pending Tasks</b>
 |Task    |Description|
 |--------|-------|
 |Task-04 	|Advanced XOR (pending)|
